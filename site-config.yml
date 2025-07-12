@@ -1,6 +1,6 @@
 ---
-hub: "reichlab/FluSight-ILI-template-hub"
-title: "FluSight ILI Sandbox Dashboard"
+hub: "reichlab/sismid-ili-forecasting-sandbox"
+title: "SISMID ILI Forecasting Dashboard"
 pages:
   - "about.md"
   - "data.qmd"
