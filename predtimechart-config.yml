@@ -4,5 +4,8 @@ reference_date_col_name: 'origin_date'
 target_date_col_name: 'target_end_date'
 horizon_col_name: 'horizon'
 initial_checked_models: ['delphi-epicast', 'hist-avg']
+initial_xaxis_range:
+  - '2015-09-01'
+  - '2016-07-01'
 disclaimer: "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes."
 target_data_file_name: 'time-series.csv'
