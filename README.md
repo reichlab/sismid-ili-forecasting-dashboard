@@ -1,4 +1,4 @@
-# Template FluSight ILI Sandbox Dashboard Repository
+# Template FluSight ILI Sandbox Dashboard Repository 
 
 This is a template for creating a dashboard repository for a hubverse-style modeling hub based around FluSight ILI forecasting.
 It is designed to be used only with the [FluSight ILI Template Hub](https://github.com/reichlab/FluSight-ILI-template-hub), 
