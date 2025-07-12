@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "forecast.html",
+    "href": "forecast.html",
+    "title": "SISMID ILI Forecasting Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  },
+  {
+    "objectID": "eval.html",
+    "href": "eval.html",
+    "title": "SISMID ILI Forecasting Dashboard",
+    "section": "",
+    "text": "this is replaced"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is a “Sandbox Hub”, designed to support the 2025 NFIDD SISMID Nowcasting and Forecasting Workshop.\nThe pre-populated content of this modeling hub is a subset of the archive of forecasts submitted to the US CDC’s FluSight Modeling Challenges from 2015 through 2020. The data in this hub follows Hubverse data standards.\nFrom 2013 through 2020, the FluSight challenges were based around forecasting Influenza-Like Illness (ILI). Since 2021, once resumed after the COVID-19 pandemic, the FluSight challenges have focused on predicting hospitalizations due to influenza.\n\nView The Forecasts\n\nThe purpose of this hub is to allow new forecasts to be submitted so they can be compared, in retrospect, against forecasts that were made in real-time.\n\n\n\n\n\n\nNote\n\n\n\nInterested in submitting your own forecasts to benchmark them against the models contained here? Follow our practice session for instructions.\n\n\n\n\n\n\n\n\nWarning\n\n\n\nThe original FluSight forecasts contained in this hub were created in real-time, when the epidemiological surveillance data were not yet finalized. Retrospectively generated models that are not careful to only allow their model to see what data was available at a specific time will likely achieve a higher accuracy due to them seeing more finalized data."
+  }
+]
