@@ -8,4 +8,3 @@ initial_xaxis_range:
   - '2019-08-18'
   - '2020-03-29'
 disclaimer: "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes."
-target_data_file_name: 'time-series.csv'
