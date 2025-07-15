@@ -1,7 +1,0 @@
----
-hub: "reichlab/sismid-ili-forecasting-sandbox"
-title: "SISMID ILI Forecasting Dashboard"
-pages:
-  - "about.md"
-  - "data.qmd"
-
