@@ -1,0 +1,16 @@
+schema_version: https://raw.githubusercontent.com/hubverse-org/hubPredEvalsData/main/inst/schema/v1.0.0/config_schema.json
+targets:
+- target_id: ili perc
+  metrics:
+  - wis
+  - ae_median
+  - interval_coverage_50
+  - interval_coverage_95
+  disaggregate_by:
+  - location
+  - origin_date
+  - horizon
+  - target_end_date
+eval_sets:
+- eval_set_name: All seasons
+
