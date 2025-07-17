@@ -16,5 +16,12 @@ targets:
   - horizon
   - target_end_date
 eval_sets:
-- eval_set_name: All seasons
+- eval_set_name: Validation seasons (15/16 - 16/17)
+  round_filters:
+    min: '2015-10-17'
+    max: '2017-05-06'
+- eval_set_name: Test seasons (17/18 - 19/20)
+  round_filters:
+    min: '2017-10-21'
+    max: '2020-01-18'
 
