@@ -208,7 +208,11 @@
     "current_date": "2020-02-29",
     "models": [
         "delphi-epicast",
-        "hist-avg"
+        "hist-avg",
+        "kot-kot",
+        "lanl-dbmplus",
+        "neu-gleam",
+        "protea-cheetah"
     ],
     "initial_checked_models": [
         "delphi-epicast",
