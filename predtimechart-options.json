@@ -223,8 +223,10 @@
         "sismid-arima011",
         "sismid-arima210log10",
         "sismid-kznn1",
+        "sismid-mueda",
         "sismid-nnetar",
-        "sismid-var2sqrt"
+        "sismid-var2sqrt",
+        "sismid_mb-arima200_fourier"
     ],
     "initial_checked_models": [
         "delphi-epicast",
