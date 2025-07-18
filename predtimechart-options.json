@@ -97,6 +97,7 @@
             "2016-04-23",
             "2016-04-30",
             "2016-05-07",
+            "2016-10-22",
             "2016-10-29",
             "2016-11-05",
             "2016-11-12",
@@ -212,10 +213,15 @@
     "models": [
         "delphi-epicast",
         "hist-avg",
+        "joy-arima210",
         "kot-kot",
         "lanl-dbmplus",
         "neu-gleam",
+        "nm-nnetar",
         "protea-cheetah",
+        "sismid-arima011",
+        "sismid-arima210log10",
+        "sismid-nnetar",
         "sismid-var2sqrt"
     ],
     "initial_checked_models": [
