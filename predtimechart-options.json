@@ -211,6 +211,7 @@
     "initial_as_of": "2020-02-29",
     "current_date": "2020-02-29",
     "models": [
+        "KS-ar_auto",
         "delphi-epicast",
         "hist-avg",
         "joy-arima210",
@@ -221,6 +222,7 @@
         "protea-cheetah",
         "sismid-arima011",
         "sismid-arima210log10",
+        "sismid-kznn1",
         "sismid-nnetar",
         "sismid-var2sqrt"
     ],
