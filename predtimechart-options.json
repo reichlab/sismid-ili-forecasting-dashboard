@@ -237,6 +237,28 @@
         "delphi-epicast",
         "hist-avg"
     ],
+    "model_urls": {
+        "sismid-arima210log10": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima210log10.yml",
+        "KS-ar_auto": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/KS-ar_auto.yml",
+        "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
+        "neu-gleam": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/neu-gleam.yml",
+        "sismid-kznn1": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-kznn1.yml",
+        "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
+        "sismid-nnetar": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-nnetar.yml",
+        "sismid-var2sqrt": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-var2sqrt.yml",
+        "joy-arima210": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/joy-arima210.yml",
+        "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
+        "sismid_mb-arima200_fourier": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid_mb-arima200_fourier.yml",
+        "kzank-arima120_fourier1": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/kzank-arima120_fourier1.yml",
+        "sismid-arima011": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima011.yml",
+        "AEM-fourier_ar210": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/AEM-fourier_ar210.yml",
+        "kot-kot": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/kot-kot.yml",
+        "nm-nnetar": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nm-nnetar.yml",
+        "sismid-arima210a": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima210a.yml",
+        "sismid-NNETARdugqbc2": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-NNETARdugqbc2.yml",
+        "sismid-mueda": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-mueda.yml",
+        "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml"
+    },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
     "initial_xaxis_range": [
         "2019-08-18",
