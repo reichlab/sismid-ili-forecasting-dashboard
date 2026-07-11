@@ -97,7 +97,6 @@
             "2016-04-23",
             "2016-04-30",
             "2016-05-07",
-            "2016-10-22",
             "2016-10-29",
             "2016-11-05",
             "2016-11-12",
@@ -213,8 +212,7 @@
         "kot-kot",
         "lanl-dbmplus",
         "neu-gleam",
-        "protea-cheetah",
-        "sismid_mb-arima200_fourier"
+        "protea-cheetah"
     ],
     "initial_checked_models": [
         "delphi-epicast",
@@ -226,7 +224,6 @@
         "neu-gleam": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/neu-gleam.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
         "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml",
-        "sismid_mb-arima200_fourier": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid_mb-arima200_fourier.yml",
         "kot-kot": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/kot-kot.yml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
