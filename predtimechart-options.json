@@ -219,12 +219,12 @@
         "hist-avg"
     ],
     "model_urls": {
-        "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
-        "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
+        "kot-kot": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/kot-kot.yml",
         "neu-gleam": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/neu-gleam.yml",
+        "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
-        "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml",
-        "kot-kot": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/kot-kot.yml"
+        "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
+        "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
     "initial_xaxis_range": [
