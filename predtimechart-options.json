@@ -68,6 +68,7 @@
     "initial_interval": "95%",
     "available_as_ofs": {
         "ili perc": [
+            "2015-10-17",
             "2015-10-24",
             "2015-10-31",
             "2015-11-07",
@@ -97,6 +98,7 @@
             "2016-04-23",
             "2016-04-30",
             "2016-05-07",
+            "2016-10-22",
             "2016-10-29",
             "2016-11-05",
             "2016-11-12",
@@ -125,6 +127,7 @@
             "2017-04-22",
             "2017-04-29",
             "2017-05-06",
+            "2017-10-21",
             "2017-10-28",
             "2017-11-04",
             "2017-11-11",
@@ -201,18 +204,23 @@
             "2020-02-08",
             "2020-02-15",
             "2020-02-22",
-            "2020-02-29"
+            "2020-02-29",
+            "2020-03-07",
+            "2020-03-14",
+            "2020-03-21"
         ]
     },
-    "initial_as_of": "2020-02-29",
-    "current_date": "2020-02-29",
+    "initial_as_of": "2020-03-21",
+    "current_date": "2020-03-21",
     "models": [
         "delphi-epicast",
         "hist-avg",
         "kot-kot",
         "lanl-dbmplus",
         "neu-gleam",
-        "protea-cheetah"
+        "nfidd-ar6",
+        "protea-cheetah",
+        "sismid-arima410"
     ],
     "initial_checked_models": [
         "delphi-epicast",
@@ -220,6 +228,8 @@
     ],
     "model_urls": {
         "kot-kot": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/kot-kot.yml",
+        "nfidd-ar6": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nfidd-ar6.yml",
+        "sismid-arima410": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima410.yml",
         "neu-gleam": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/neu-gleam.yml",
         "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
