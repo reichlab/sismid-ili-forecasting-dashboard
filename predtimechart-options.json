@@ -222,10 +222,11 @@
         "nfidd-ar6",
         "nfidd-ar6bf",
         "protea-cheetah",
+        "seabbs_bot-ar6bf",
         "sismid-JoeH",
         "sismid-ar200_fourier",
         "sismid-arima410",
-        "sismid-worstensemble"
+        "sismid-et_worstensemble"
     ],
     "initial_checked_models": [
         "delphi-epicast",
@@ -236,15 +237,16 @@
         "sismid-ar200_fourier": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-ar200_fourier.yml",
         "nfidd-ar6": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nfidd-ar6.yml",
         "sismid-arima410": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima410.yml",
+        "seabbs_bot-ar6bf": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/seabbs_bot-ar6bf.yml",
         "neu-gleam": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/neu-gleam.yml",
-        "sismid-worstensemble": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-worstensemble.yml",
         "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
         "nfidd-ar6bf": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nfidd-ar6bf.yml",
         "Eratic-Artist": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/Eratic-Artist.yml",
         "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
         "sismid-JoeH": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-JoeH.yml",
-        "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml"
+        "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml",
+        "sismid-et_worstensemble": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-et_worstensemble.yml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
     "initial_xaxis_range": [
