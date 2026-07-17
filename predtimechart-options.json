@@ -220,7 +220,9 @@
         "neu-gleam",
         "nfidd-ar6",
         "protea-cheetah",
-        "sismid-arima410"
+        "sismid-ar200_fourier",
+        "sismid-arima410",
+        "sismid-worstensemble"
     ],
     "initial_checked_models": [
         "delphi-epicast",
@@ -228,9 +230,11 @@
     ],
     "model_urls": {
         "kot-kot": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/kot-kot.yml",
+        "sismid-ar200_fourier": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-ar200_fourier.yml",
         "nfidd-ar6": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nfidd-ar6.yml",
         "sismid-arima410": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima410.yml",
         "neu-gleam": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/neu-gleam.yml",
+        "sismid-worstensemble": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-worstensemble.yml",
         "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
         "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
