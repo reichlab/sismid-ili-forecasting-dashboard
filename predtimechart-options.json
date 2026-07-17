@@ -223,6 +223,7 @@
         "nfidd-ar6bf",
         "protea-cheetah",
         "seabbs_bot-ar6bf",
+        "seabbs_bot-season",
         "sismid-JoeH",
         "sismid-ar200_fourier",
         "sismid-arima210_fourier",
@@ -248,6 +249,7 @@
         "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
         "sismid-JoeH": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-JoeH.yml",
         "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml",
+        "seabbs_bot-season": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/seabbs_bot-season.yml",
         "sismid-et_worstensemble": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-et_worstensemble.yml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
