@@ -215,12 +215,14 @@
     "models": [
         "delphi-epicast",
         "hist-avg",
+        "Eratic-Artist",
         "kot-kot",
         "lanl-dbmplus",
         "neu-gleam",
         "nfidd-ar6",
         "nfidd-ar6bf",
         "protea-cheetah",
+        "sismid-JoeH",
         "sismid-ar200_fourier",
         "sismid-arima410",
         "sismid-worstensemble"
@@ -239,7 +241,9 @@
         "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
         "nfidd-ar6bf": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nfidd-ar6bf.yml",
+        "Eratic-Artist": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/Eratic-Artist.yml",
         "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
+        "sismid-JoeH": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-JoeH.yml",
         "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml"
     },
     "disclaimer": "This is a sandbox forecast visualization. It is not designed to support an operational hub, but instead is designed for benchmarking and research purposes.",
