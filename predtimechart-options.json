@@ -225,6 +225,7 @@
         "seabbs_bot-ar6bf",
         "sismid-JoeH",
         "sismid-ar200_fourier",
+        "sismid-arima210_fourier",
         "sismid-arima410",
         "sismid-et_worstensemble"
     ],
@@ -239,6 +240,7 @@
         "sismid-arima410": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima410.yml",
         "seabbs_bot-ar6bf": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/seabbs_bot-ar6bf.yml",
         "neu-gleam": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/neu-gleam.yml",
+        "sismid-arima210_fourier": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima210_fourier.yml",
         "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
         "nfidd-ar6bf": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nfidd-ar6bf.yml",
