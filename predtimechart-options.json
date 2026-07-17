@@ -219,6 +219,7 @@
         "lanl-dbmplus",
         "neu-gleam",
         "nfidd-ar6",
+        "nfidd-ar6bf",
         "protea-cheetah",
         "sismid-ar200_fourier",
         "sismid-arima410",
@@ -237,6 +238,7 @@
         "sismid-worstensemble": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-worstensemble.yml",
         "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
+        "nfidd-ar6bf": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nfidd-ar6bf.yml",
         "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
         "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml"
     },
