@@ -224,6 +224,7 @@
         "protea-cheetah",
         "seabbs_bot-ar6bf",
         "seabbs_bot-season",
+        "seabbs_bot-seasstack",
         "sismid-JoeH",
         "sismid-ar200_fourier",
         "sismid-arima210_fourier",
@@ -248,6 +249,7 @@
         "Eratic-Artist": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/Eratic-Artist.yml",
         "hist-avg": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/hist-avg.yml",
         "sismid-JoeH": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-JoeH.yml",
+        "seabbs_bot-seasstack": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/seabbs_bot-seasstack.yml",
         "delphi-epicast": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/delphi-epicast.yml",
         "seabbs_bot-season": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/seabbs_bot-season.yml",
         "sismid-et_worstensemble": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-et_worstensemble.yml"
