@@ -215,6 +215,7 @@
     "models": [
         "delphi-epicast",
         "hist-avg",
+        "CEMAR-arima600",
         "Eratic-Artist",
         "kot-kot",
         "lanl-dbmplus",
@@ -245,6 +246,7 @@
         "neu-gleam": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/neu-gleam.yml",
         "sismid-arima210_fourier": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-arima210_fourier.yml",
         "sismid-fourierar2dm": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/sismid-fourierar2dm.yml",
+        "CEMAR-arima600": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/CEMAR-arima600.yml",
         "lanl-dbmplus": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/lanl-dbmplus.yml",
         "protea-cheetah": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/protea-cheetah.yml",
         "nfidd-ar6bf": "https://github.com/reichlab/FluSight-ILI-template-hub/blob/main/model-metadata/nfidd-ar6bf.yml",
